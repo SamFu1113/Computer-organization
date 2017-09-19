@@ -1,1 +1,1 @@
-# Computer_Org-2017
+# CGU Computer Organization Course (Fall 2017)
