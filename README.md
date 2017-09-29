@@ -1,10 +1,10 @@
 # CGU Computer Organization Course (Fall 2017)
 
-## Coming-up Lecture: (2017/09/25)
+## Coming-up Lectures:
 
-- Lecture 01: [Sequential Circuit](https://github.com/CGUSystemCourses/Computer_Org-2017/tree/master/Lectures/lec01-seq_circuit)
+- Lecture 02 (2017/09/30): [Sequential Circuit Design](https://github.com/CGUSystemCourses/Computer_Org-2017/tree/master/Lectures/lec02-seq_ckt_design)
 
-- Lab 01: [Using FPGA](https://github.com/CGUSystemCourses/Computer_Org-2017/tree/master/Lectures/lec01-seq_circuit)
+- Lecture 03 (2017/10/02): [Registers](https://github.com/CGUSystemCourses/Computer_Org-2017/tree/master/Lectures/lec03-registers)
 
 ## Resources
 
