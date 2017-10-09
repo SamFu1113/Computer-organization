@@ -2,9 +2,9 @@
 
 ## Coming-up Lectures:
 
-- Lecture 02 (2017/09/30): [Sequential Circuit Design](https://github.com/CGUSystemCourses/Computer_Org-2017/tree/master/Lectures/lec02-seq_ckt_design)
-
 - Lecture 03 (2017/10/02): [Registers](https://github.com/CGUSystemCourses/Computer_Org-2017/tree/master/Lectures/lec03-registers)
+
+- Lecture 04 (2017/10/16): [Counters](https://github.com/CGUSystemCourses/Computer_Org-2017/tree/master/Lectures/lec04-counters)
 
 ## Resources
 
