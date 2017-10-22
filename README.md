@@ -2,9 +2,9 @@
 
 ## Coming-up Lectures:
 
-- Lecture 03 (2017/10/02): [Registers](https://github.com/CGUSystemCourses/Computer_Org-2017/tree/master/Lectures/lec03-registers)
-
 - Lecture 04 (2017/10/16): [Counters](https://github.com/CGUSystemCourses/Computer_Org-2017/tree/master/Lectures/lec04-counters)
+
+- Lecture 05 (2017/10/23): [RTL Design](https://github.com/CGUSystemCourses/Computer_Org-2017/tree/master/Lectures/lec05-RTL_design)
 
 ## Resources
 
