@@ -2,9 +2,7 @@
 
 ## Coming-up Lectures:
 
-- [Lecture 06: RTL Design for Control](https://github.com/CGUSystemCourses/Computer_Org-2017/tree/master/Lectures/lec06-RTL_control)
-
-- [Midterm Project of the Lab](https://github.com/CGUSystemCourses/Computer_Org-2017/tree/master/Lectures/midterm)
+- [Lecture 07: Synthesizable Verilog Coding](https://github.com/CGUSystemCourses/Computer_Org-2017/tree/master/Lectures/lec07-verilog)
 
 ## Resources
 
