@@ -1,4 +1,4 @@
-# Computer Organization Course (Fall 2017)
+# Computer Organization Course
 
 ## Coming-up Lectures:
 
