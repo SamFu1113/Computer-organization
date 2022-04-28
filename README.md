@@ -1,4 +1,4 @@
-# CGU Computer Organization Course (Fall 2017)
+# Computer Organization Course (Fall 2017)
 
 ## Coming-up Lectures:
 
